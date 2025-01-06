@@ -12,4 +12,4 @@ We are a cool team building Fridgify app.
 - [Requirement Specification](https://drive.google.com/file/d/1-ijA_LEl9fsofeYULLaUIqrztbdQ6ZLA/view?usp=sharing)
 - [Requirement Analysis](https://drive.google.com/file/d/1XjjsjeXfPEEzGyoiDn4Gx8m-iTFC03Fb/view?usp=sharing)
 - [Design Document](https://drive.google.com/file/d/1DsV-Ah2X--7xiPOB9O-c5K1sd_dBRiBl/view?usp=sharing)
-- [Test Report](lalala)
+- [Test Report](https://drive.google.com/file/d/1YpQWIv7p8CzidovpphqWBDVfLGrXsxGx/view?usp=drivesdk)
