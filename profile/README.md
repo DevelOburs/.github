@@ -13,3 +13,4 @@ We are a cool team building Fridgify app.
 - [Requirement Analysis](https://drive.google.com/file/d/1XjjsjeXfPEEzGyoiDn4Gx8m-iTFC03Fb/view?usp=sharing)
 - [Design Document](https://drive.google.com/file/d/1DsV-Ah2X--7xiPOB9O-c5K1sd_dBRiBl/view?usp=sharing)
 - [Test Report](https://drive.google.com/file/d/1YpQWIv7p8CzidovpphqWBDVfLGrXsxGx/view?usp=drivesdk)
+- [Presentation](https://www.canva.com/design/DAGbb37FOaM/lSBOUYLO9AmnfGtHnhbFrg/view?utm_content=DAGbb37FOaM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h36a6b17c1e)
